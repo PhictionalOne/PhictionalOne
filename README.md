@@ -1,18 +1,18 @@
 # ¡Hola juntos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-[![Python](https://img.shields.io/static/v1?label=Code&message=Python&color=d8ca9d&logo=python&logoColor=d8ca9d)](https://www.python.org)
-[![Java](https://img.shields.io/static/v1?label=Code&message=Java&color=d8ca9d&logo=java&logoColor=d8ca9d)](https://openjdk.java.net)
-[![Racket](https://img.shields.io/static/v1?label=Code&message=Racket&color=d8ca9d)](https://www.racket-lang.org)
-[![Haskell](https://img.shields.io/static/v1?label=Code&message=Haskell&color=d8ca9d&logo=haskell&logoColor=d8ca9d)](https://www.haskell.org)
-[![PHP](https://img.shields.io/static/v1?label=Code&message=PHP&color=d8ca9d&logo=php&logoColor=d8ca9d)](https://www.php.net)
+[![Python](https://img.shields.io/static/v1?label=Code&message=Python&color=d8ca9d&logo=python&logoColor=d8ca9d&style=for-the-badge)](https://www.python.org)
+[![Java](https://img.shields.io/static/v1?label=Code&message=Java&color=d8ca9d&logo=java&logoColor=d8ca9d&style=for-the-badge)](https://openjdk.java.net)
+[![Racket](https://img.shields.io/static/v1?label=Code&message=Racket&color=d8ca9d&style=for-the-badge)](https://www.racket-lang.org)
+[![Haskell](https://img.shields.io/static/v1?label=Code&message=Haskell&color=d8ca9d&logo=haskell&logoColor=d8ca9d&style=for-the-badge)](https://www.haskell.org)
+[![PHP](https://img.shields.io/static/v1?label=Code&message=PHP&color=d8ca9d&logo=php&logoColor=d8ca9d&style=for-the-badge)](https://www.php.net)
 
-[![LaTeX](https://img.shields.io/static/v1?label=Text&message=LaTeX&color=d8ca9d&logo=latex&logoColor=d8ca9d)](https://www.latex-project.org/)
-[![HTML](https://img.shields.io/static/v1?label=Text&message=HTML&color=d8ca9d)](https://www.w3schools.com/html/)
+[![LaTeX](https://img.shields.io/static/v1?label=Text&message=LaTeX&color=d8ca9d&logo=latex&logoColor=d8ca9d&style=for-the-badge)](https://www.latex-project.org/)
+[![HTML](https://img.shields.io/static/v1?label=Text&message=HTML&color=d8ca9d&style=for-the-badge)](https://www.w3schools.com/html/)
 
-[![Linux](https://img.shields.io/static/v1?label=OS&message=Linux&color=d8ca9d&logo=linux&logoColor=d8ca9d)](https://www.linux.org)
-[![Manjaro](https://img.shields.io/static/v1?label=OS&message=Manjaro&color=d8ca9d&logo=manjaro&logoColor=d8ca9d)](https://www.manjaro.org)
-[![Windows](https://img.shields.io/static/v1?label=OS&message=Windows&color=d8ca9d&logo=windows&logoColor=d8ca9d)](https://mrrobot.fandom.com/wiki/E_Corp)
+[![Linux](https://img.shields.io/static/v1?label=OS&message=Linux&color=d8ca9d&logo=linux&logoColor=d8ca9d&style=for-the-badge)](https://www.linux.org)
+[![Manjaro](https://img.shields.io/static/v1?label=OS&message=Manjaro&color=d8ca9d&logo=manjaro&logoColor=d8ca9d&style=for-the-badge)](https://www.manjaro.org)
+[![Windows](https://img.shields.io/static/v1?label=OS&message=Windows&color=d8ca9d&logo=windows&logoColor=d8ca9d&style=for-the-badge)](https://mrrobot.fandom.com/wiki/E_Corp)
 
 Hi, I am Alexander or Phi for short.
 
